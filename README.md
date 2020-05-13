@@ -1,2 +1,2 @@
 # Machine-Learning-with-Julia
-ML model prediction using Julia language
+ML model built with iris dataset using Julia language. 
